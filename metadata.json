@@ -1,0 +1,6 @@
+{
+  "name": "Physics Hub",
+  "description": "Premium coaching institute for Class 11, 12, and competitive exams (JEE, NEET, CEE).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
