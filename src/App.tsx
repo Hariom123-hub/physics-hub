@@ -101,7 +101,7 @@ export default function App() {
           <div className="flex items-center gap-4">
             <div className="w-16 h-16 md:w-20 md:h-20 rounded-full overflow-hidden border-2 border-golden shadow-lg bg-white shrink-0">
               <img 
-                src="/src/assets/images/physics_hub_logo_1784779764563.jpg" 
+                src="/assets/images/physics_hub_logo_1784779764563.jpg" 
                 alt="Physics Hub Logo" 
                 className="w-full h-full object-cover scale-110"
                 referrerPolicy="no-referrer"
@@ -175,7 +175,7 @@ export default function App() {
               <div className="flex justify-between items-center mb-12">
                 <div className="flex items-center gap-3">
                   <img 
-                    src="/src/assets/images/physics_hub_logo_1784779764563.jpg" 
+                    src="/assets/images/physics_hub_logo_1784779764563.jpg" 
                     alt="Physics Hub Logo" 
                     className="w-24 h-24 object-contain"
                     referrerPolicy="no-referrer"
@@ -222,7 +222,7 @@ export default function App() {
           {/* Background Layer */}
           <div className="absolute inset-0 z-0">
             <img 
-              src="/src/assets/images/physics_bg_1784778152823.jpg" 
+              src="/assets/images/physics_bg_1784778152823.jpg" 
               alt="Physics Background" 
               className="w-full h-full object-cover opacity-20"
               referrerPolicy="no-referrer"
@@ -278,7 +278,7 @@ export default function App() {
               
               <div className="relative z-10 w-full flex items-center justify-center md:justify-end">
                 <img 
-                  src="/src/assets/images/IMG_20260723_094219.jpg" 
+                  src="/assets/images/IMG_20260723_094219.jpg" 
                   alt="Physics Hub Classroom" 
                   className="w-[95%] md:w-full max-h-[300px] md:max-h-none aspect-video md:aspect-[4/3] object-cover rounded-[2rem] border-4 border-white/10 shadow-2xl"
                   referrerPolicy="no-referrer"
@@ -353,7 +353,7 @@ export default function App() {
               <div className="absolute -inset-4 bg-golden/20 rounded-[3rem] -rotate-3 scale-105"></div>
               <div className="relative aspect-square rounded-[2.5rem] overflow-hidden shadow-2xl">
                 <img 
-                  src="/src/assets/images/IMG_20260723_094200.jpg" 
+                  src="/assets/images/IMG_20260723_094200.jpg" 
                   alt="Physics Class" 
                   className="w-full h-full object-cover"
                   referrerPolicy="no-referrer"
@@ -384,7 +384,7 @@ export default function App() {
               className="relative aspect-video rounded-3xl overflow-hidden shadow-xl border-4 border-slate-50"
             >
               <img 
-                src="/src/assets/images/IMG_20260723_094234.jpg" 
+                src="/assets/images/IMG_20260723_094234.jpg" 
                 alt="Classroom" 
                 className="w-full h-full object-cover hover:scale-105 transition-transform duration-700"
                 referrerPolicy="no-referrer"
@@ -396,7 +396,7 @@ export default function App() {
               className="relative aspect-video rounded-3xl overflow-hidden shadow-xl border-4 border-slate-50"
             >
               <img 
-                src="/src/assets/images/IMG_20260723_094105.jpg" 
+                src="/assets/images/IMG_20260723_094105.jpg" 
                 alt="Institute" 
                 className="w-full h-full object-cover hover:scale-105 transition-transform duration-700"
                 referrerPolicy="no-referrer"
@@ -447,7 +447,7 @@ export default function App() {
               >
                 <div className="absolute inset-0 bg-golden blur-[40px] md:blur-[100px] opacity-20"></div>
                 <img 
-                  src="/src/assets/images/admission_assets_1784778141021.jpg" 
+                  src="/assets/images/admission_assets_1784778141021.jpg" 
                   alt="Academic Assets" 
                   className="relative z-10 w-full h-full object-cover rounded-xl md:rounded-3xl shadow-2xl"
                   referrerPolicy="no-referrer"
@@ -547,7 +547,7 @@ export default function App() {
               <div className="flex items-center gap-4">
                 <div className="w-16 h-16 rounded-full overflow-hidden border-2 border-golden/50 bg-white shadow-xl shrink-0">
                   <img 
-                    src="/src/assets/images/physics_hub_logo_1784779764563.jpg" 
+                    src="/assets/images/physics_hub_logo_1784779764563.jpg" 
                     alt="Physics Hub Logo" 
                     className="w-full h-full object-cover"
                     referrerPolicy="no-referrer"
